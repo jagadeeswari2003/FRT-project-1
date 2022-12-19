@@ -28,7 +28,7 @@ This is a web based application developed for Lifestyle related Game based websi
 
 
 ## Home  -
-![pic1](https://user-images.githubusercontent.com/116704851/208394047-38542c65-a29e-47c5-8022-9286af7d9743.png)
+![pic11](https://user-images.githubusercontent.com/116704851/208396635-273b9300-3547-448b-854b-ad8d5a52650b.png)
 
 
 
