@@ -124,7 +124,7 @@ This is a web based application developed for Lifestyle related Game based websi
 
 ### Azure Static Web Apps  -
 
-![pic8](https://user-images.githubusercontent.com/116704851/208395450-65a3042e-d823-4266-8007-832b21b2ae0e.png
+![pic10](https://user-images.githubusercontent.com/116704851/208396115-c528baf8-09f8-423e-b3b0-ff8279a9092e.png)
 
 
 
